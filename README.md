@@ -14,3 +14,10 @@ Tech used: HTML, CSS, Javascript
 Lessons Learned:
 
 Authentication!! This was really exciting learning how everything works on the back end, and building it out solidified my understanding of the relationship between the server and browser.
+
+
+## Installation/Usage
+1. Clone repo
+2. run `npm install`
+3. run `node server.js`
+4. Navigate to `localhost:8080`
