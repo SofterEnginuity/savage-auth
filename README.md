@@ -1,13 +1,16 @@
-## Installation
+Savage Authentication
 
-1. Clone repo
-2. run `npm install`
+We love a good fan site! Sign in or sign up to vote for your favorite
 
-## Usage
+Link to project: https://savage-auth-nyzz.onrender.com/
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
 
-## Credit
+<img src="https://i.imgur.com/JkpvleL.png" width=40% height=40%>
 
-Modified from Scotch.io's auth tutorial
+
+How It's Made:
+Tech used: HTML, CSS, Javascript
+
+Lessons Learned:
+
+Authentication!! This was really exciting learning how everything works on the back end, and building it out solidified my understanding of the relationship between the server and browser.
